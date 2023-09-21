@@ -45,3 +45,15 @@ A jelenlegi üzleti folyamatok áttekintése során az alábbi lépéseket köve
 3. **Adatmanipuláció**: Az adatok formázása és előkészítése a teszteléshez vagy az alkalmazás használatához.
 
 4. **Adatexport**: Az adatok exportálása a kívánt formátumokban, például CSV vagy JSON.
+
+## VI. Igényelt üzleti folyamatok modellje
+
+### Igényelt Üzleti Folyamatok
+
+A következő üzleti folyamatok szükségesek az új szoftver bevezetése során:
+
+1. **Felhasználói adatok generálása**: A felhasználók által generált adatok előállítása a program segítségével.
+
+2. **Adatok testreszabása**: A felhasználók képesek lesznek testre szabni a generált adatokat, például ország, nem vagy kor alapján.
+
+3. **Adatexport**: Az adatok exportálása különböző formátumokban, például CSV, JSON vagy SQL.
