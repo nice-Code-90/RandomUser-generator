@@ -57,3 +57,19 @@ A következő üzleti folyamatok szükségesek az új szoftver bevezetése sorá
 2. **Adatok testreszabása**: A felhasználók képesek lesznek testre szabni a generált adatokat, például ország, nem vagy kor alapján.
 
 3. **Adatexport**: Az adatok exportálása különböző formátumokban, például CSV, JSON vagy SQL.
+
+## VII. Követelménylista
+
+A követelménylista tartalmazza a programmal szemben támasztott követelményeket, például funkcionális és nem funkcionális követelményeket. A követelmények listája folyamatosan bővülhet a projekt fejlődése során.
+
+### Funkcionális Követelmények
+
+- A programnak képesnek kell lennie generálni valósághű felhasználói adatokat.
+- A felhasználóknak lehetőségük kell kapniuk az adatok testreszabására.
+- Az adatoknak exportálhatóknak kell lenniük különböző formátumokban (CSV, JSON, SQL stb.).
+
+### Nem Funkcionális Követelmények
+
+- Az adatok generálása és exportálása gyorsnak és hatékonynak kell lennie.
+- A programnak biztosítania kell az adatok biztonságos tárolását és kezelését.
+- A GDPR és a CCPA adatvédelmi szabályozásoknak megfelelő működés.
