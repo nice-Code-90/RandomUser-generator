@@ -31,3 +31,17 @@ A _Random User Generator_ program fejlesztése és üzemeltetése során szigor�
 5. **SQL adatbázis export**: Ha az alkalmazás SQL exportálást is támogat, akkor az SQL lekérdezéseknek meg kell felelniük az adott adatbázisrendszerek szabványainak, például az SQL-92 vagy SQL-99 szabványoknak.
 
 Az említett pályázatok, törvények, rendeletek, szabványok és ajánlások betartása kulcsfontosságú lesz a _Random User Generator_ program biztonságos és törvényes működése szempontjából. Az alkalmazásnak folyamatosan frissítve kell tartania a szükséges jogi és szabványi követelményeknek való megfelelést.
+
+## V. Jelenlegi üzleti folyamatok modellje
+
+### Jelenlegi Üzleti Folyamatok
+
+A jelenlegi üzleti folyamatok áttekintése során az alábbi lépéseket követhetjük:
+
+1. **Adatgyűjtés**: Az ügyfelek adatainak manuális gyűjtése és rögzítése.
+
+2. **Adatellenőrzés**: Az összegyűjtött adatok ellenőrzése és validálása, hogy biztosítsuk az adatok helyességét.
+
+3. **Adatmanipuláció**: Az adatok formázása és előkészítése a teszteléshez vagy az alkalmazás használatához.
+
+4. **Adatexport**: Az adatok exportálása a kívánt formátumokban, például CSV vagy JSON.
