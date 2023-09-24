@@ -64,6 +64,8 @@ A következő üzleti folyamatok szükségesek az új szoftver bevezetése sorá
 
 3. **Adatexport**: Az adatok exportálása különböző formátumokban, például CSV, JSON vagy SQL.
 
+![Igényelt üzleti folyamatok modellje](/Abrak/igenyelt.drawio.png)
+
 ## VII. Követelménylista
 
 A követelménylista tartalmazza a programmal szemben támasztott követelményeket, például funkcionális és nem funkcionális követelményeket. A követelmények listája folyamatosan bővülhet a projekt fejlődése során.
@@ -81,7 +83,7 @@ A követelménylista tartalmazza a programmal szemben támasztott követelménye
 - A programnak biztosítania kell az adatok biztonságos tárolását és kezelését.
 - A GDPR és a CCPA adatvédelmi szabályozásoknak megfelelő működés.
 
-# VIII. Fogalomszótár
+## VIII. Fogalomszótár
 
 - CSV: CSV formátum, eredetileg Comma Separated Values. Tabulátor helyett vesszőt, pontosvesszőt, vagy más jelet is használhat.
 - JSON: A JSON betűszó az angol JavaScript Object Notation rövidítése, egy egyszerű, ember által is olvasható szöveg alapú szabvány számítógépek közötti adatcserére. A JavaScript szkriptnyelvből alakult ki egyszerű adatstruktúrák és asszociatív tömbök reprezentálására.
