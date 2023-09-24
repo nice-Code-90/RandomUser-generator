@@ -50,7 +50,7 @@ A jelenlegi üzleti folyamatok áttekintése során az alábbi lépéseket köve
 
 4. **Adatexport**: Az adatok exportálása a kívánt formátumokban, például CSV vagy JSON.
 
-![Jelenlegi üzleti folyamatok modellje](./Abrak/jelenlegi_helyzet.drawio.png)
+![Jelenlegi üzleti folyamatok modellje](/Abrak/jelenlegi_helyzet.drawio.png)
 
 ## VI. Igényelt üzleti folyamatok modellje
 
