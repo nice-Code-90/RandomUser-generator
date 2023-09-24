@@ -4,7 +4,7 @@
 
 Új szoftver vagy alkalmazás fejlesztésénél, az egyik legfontosabb lépés a tesztelés. Ennek folyamán előfordulhat, hogy nagy mennyiségű adatra van szükségünk, annak érdekében, hogy meggyőződhessünk alkalmazásunk hibátlan működéséről. Ezt valahogy megkell oldanunk anélkül, hogy valódi emberek információit használjuk fel. Itt jön képbe csapatunk _Random User Generator_ programja.
 
-A program célja lehetővé tenni a fejlesztők és tesztelők számára, hogy létrehozhassanak nagy mennyiségű valósnak tűnő felhasználói adatot. Segítségével hatékonyabban lehet tesztelni a projekteket, anélkül, hogy adatvédelmi kockázatok miatt kellene aggódni. Ezáltal a fejlesztők gyorsabban dolgozhatnak, valamint biztosak lehetnek abban, hogy a generált információk nem kapcsolódnak valós személyekhez.
+A program célja webes felületen lehetővé tenni a fejlesztők és tesztelők számára, hogy létrehozhassanak nagy mennyiségű valósnak tűnő felhasználói adatot. Segítségével hatékonyabban lehet tesztelni a projekteket, anélkül, hogy adatvédelmi kockázatok miatt kellene aggódni. Ezáltal a fejlesztők gyorsabban dolgozhatnak, valamint biztosak lehetnek abban, hogy a generált információk nem kapcsolódnak valós személyekhez.
 
 ## II.Jelenlegi helyzet
 
@@ -30,6 +30,10 @@ A _Random User Generator_ program fejlesztése és üzemeltetése során szigor�
 
 5. **SQL adatbázis export**: Ha az alkalmazás SQL exportálást is támogat, akkor az SQL lekérdezéseknek meg kell felelniük az adott adatbázisrendszerek szabványainak, például az SQL-92 vagy SQL-99 szabványoknak.
 
+6. **Szabványos eszközök használata a webes felületen**: HTML, JAVASCRIPT, CSS.
+
+7. **Képek formátuma**: A képek elsősorban jpg,jpeg vagy png formátumban kell, hogy elérhetőek legyenek.
+
 Az említett pályázatok, törvények, rendeletek, szabványok és ajánlások betartása kulcsfontosságú lesz a _Random User Generator_ program biztonságos és törvényes működése szempontjából. Az alkalmazásnak folyamatosan frissítve kell tartania a szükséges jogi és szabványi követelményeknek való megfelelést.
 
 ## V. Jelenlegi üzleti folyamatok modellje
@@ -45,6 +49,8 @@ A jelenlegi üzleti folyamatok áttekintése során az alábbi lépéseket köve
 3. **Adatmanipuláció**: Az adatok formázása és előkészítése a teszteléshez vagy az alkalmazás használatához.
 
 4. **Adatexport**: Az adatok exportálása a kívánt formátumokban, például CSV vagy JSON.
+
+![Jelenlegi üzleti folyamatok modellje](./Abrak/jelenlegi_helyzet.drawio.png)
 
 ## VI. Igényelt üzleti folyamatok modellje
 
@@ -67,9 +73,19 @@ A követelménylista tartalmazza a programmal szemben támasztott követelménye
 - A programnak képesnek kell lennie generálni valósághű felhasználói adatokat.
 - A felhasználóknak lehetőségük kell kapniuk az adatok testreszabására.
 - Az adatoknak exportálhatóknak kell lenniük különböző formátumokban (CSV, JSON, SQL stb.).
+- Online megjelenés.
 
 ### Nem Funkcionális Követelmények
 
 - Az adatok generálása és exportálása gyorsnak és hatékonynak kell lennie.
 - A programnak biztosítania kell az adatok biztonságos tárolását és kezelését.
 - A GDPR és a CCPA adatvédelmi szabályozásoknak megfelelő működés.
+
+# VIII. Fogalomszótár
+
+- CSV: CSV formátum, eredetileg Comma Separated Values. Tabulátor helyett vesszőt, pontosvesszőt, vagy más jelet is használhat.
+- JSON: A JSON betűszó az angol JavaScript Object Notation rövidítése, egy egyszerű, ember által is olvasható szöveg alapú szabvány számítógépek közötti adatcserére. A JavaScript szkriptnyelvből alakult ki egyszerű adatstruktúrák és asszociatív tömbök reprezentálására.
+- SQL: Az SQL, azaz Structured Query Language (strukturált lekérdezőnyelv) relációsadatbázis-kezelők lekérdezési nyelve.
+- HTML: A HTML egy leíró nyelv, melyet weboldalak készítéséhez fejlesztettek ki, és mára már internetes szabvánnyá vált a W3C (World Wide Web Consortium) támogatásával.
+- JAVASCRIPT: A JavaScript programozási nyelv egy objektumorientált, prototípus-alapú szkriptnyelv, amelyet weboldalakon elterjedten használnak.
+- CSS: A CSS a számítástechnikában egy stílusleíró nyelv, mely a HTML vagy XHTML típusú strukturált dokumentumok megjelenését írja le. Ezenkívül használható bármilyen XML alapú dokumentum stílusának leírására is, mint például az SVG, XUL stb.
