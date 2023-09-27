@@ -90,7 +90,7 @@ A felhasználó kiválasztja az "Adatok Exportálása" opciót, majd kiválasztj
 
 ![Felépítés](/Abrak/Üzleti_modell_terv.png)
 
-##VIII. Képernyő tervek
+## VIII. Képernyő tervek
 
 ![Képernyő tervek](/Abrak/látványterv.png)
 
