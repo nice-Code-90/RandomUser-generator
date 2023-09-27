@@ -80,5 +80,12 @@ A program továbbá lehetőséget nyújt majd arra is, hogy az adatokat különb
 
 ### Opcionális funkciók
 
-- Az adatok gyors generálása és exportálása 
+- Az adatok gyors generálása és exportálása
 - Az alkalmazás biztonságosan kezeli az adatokat
+
+## VII. Forgatókönyvek
+
+A felhasználó felkeersi a Random User Generator webhelyet, majd kiválasztja a generálandó adatok kritériumait, például nemzetiség és elindítja az adatgenerálást.
+A felhasználó kiválasztja az "Adatok Exportálása" opciót, majd kiválasztja a kívánt export formátumot, például CSV vagy JSON. Az alkalmazás exportálja az adatokat a választott formátumban, és a felhasználó letöltheti azokat.
+
+![Felépítés](/Abrak/Üzleti_modell_terv.png)
