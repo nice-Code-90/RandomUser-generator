@@ -101,3 +101,17 @@ Jelenleg a legtöbb fejlsztő és tesztelő manuálisan előállított adatot ha
 ## X. Igényelt üzleti folyamatok modellje
 
 A program célja, hogy webes felületen keresztül a fejlesztők és tesztelők nagy mennyiségű valósnak tűnő adatot generáltathassanak, amit nem kell külön ellenőrzések alá vetni, ezzel is gyorsítva a munka folyamatát.
+
+## XI. Fogalomszótár
+
+CSV: CSV formátum, eredetileg Comma Separated Values. Tabulátor helyett vesszőt, pontosvesszőt, vagy más jelet is használhat.
+
+JSON: A JSON betűszó az angol JavaScript Object Notation rövidítése, egy egyszerű, ember által is olvasható szöveg alapú szabvány számítógépek közötti adatcserére. A JavaScript szkriptnyelvből alakult ki egyszerű adatstruktúrák és asszociatív tömbök reprezentálására.
+
+SQL: Az SQL, azaz Structured Query Language (strukturált lekérdezőnyelv) relációsadatbázis-kezelők lekérdezési nyelve.
+
+HTML: A HTML egy leíró nyelv, melyet weboldalak készítéséhez fejlesztettek ki, és mára már internetes szabvánnyá vált a W3C (World Wide Web Consortium) támogatásával.
+
+JavaScript: A JavaScript programozási nyelv egy objektumorientált, prototípus-alapú szkriptnyelv, amelyet weboldalakon elterjedten használnak.
+
+CSS: A CSS a számítástechnikában egy stílusleíró nyelv, mely a HTML vagy XHTML típusú strukturált dokumentumok megjelenését írja le.
