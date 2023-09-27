@@ -93,3 +93,7 @@ A felhasználó kiválasztja az "Adatok Exportálása" opciót, majd kiválasztj
 ##VIII. Képernyő tervek
 
 ![Képernyő tervek](/Abrak/látványterv.png)
+
+## IX. Jelenlegi üzleti folyamatok modellje
+
+Jelenleg a legtöbb fejlsztő és tesztelő manuálisan előállított adatot használ programjaik tesztelése során. Ez lassú, adatvédelmi kockázatai vannak, valamint sokszor nincs is elég megfelelő adat a teszteléshez.
