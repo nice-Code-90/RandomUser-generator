@@ -70,7 +70,7 @@ A program továbbá lehetőséget nyújt majd arra is, hogy az adatokat különb
 
 ## VI. Követelménylista
 
-### Funkcionális Követelmények
+### Elengedhetetlen funkciók
 
 - A program képes valósághű felhasználói adatok generálására.
 - A felhasználók képesek az adatok testreszabására több kritérium alapján.
@@ -78,7 +78,7 @@ A program továbbá lehetőséget nyújt majd arra is, hogy az adatokat különb
 - Az alkalmazás lehetővé teszi a generált adatok megjelenítését a webes felületen.
 - Jövőben hozzáadható: generált adatok mappába való mentése, különböző nyelvi beállítások, bejelentkezési opció.
 
-### Nem Funkcionális Követelmények
+### Opcionális funkciók
 
 - Az adatok gyors generálása és exportálása 
 - Az alkalmazás biztonságosan kezeli az adatokat
