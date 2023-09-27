@@ -89,3 +89,7 @@ A felhasználó felkeersi a Random User Generator webhelyet, majd kiválasztja a
 A felhasználó kiválasztja az "Adatok Exportálása" opciót, majd kiválasztja a kívánt export formátumot, például CSV vagy JSON. Az alkalmazás exportálja az adatokat a választott formátumban, és a felhasználó letöltheti azokat.
 
 ![Felépítés](/Abrak/Üzleti_modell_terv.png)
+
+##VIII. Képernyő tervek
+
+![Képernyő tervek](/Abrak/látványterv.png)
