@@ -97,3 +97,7 @@ A felhasználó kiválasztja az "Adatok Exportálása" opciót, majd kiválasztj
 ## IX. Jelenlegi üzleti folyamatok modellje
 
 Jelenleg a legtöbb fejlsztő és tesztelő manuálisan előállított adatot használ programjaik tesztelése során. Ez lassú, adatvédelmi kockázatai vannak, valamint sokszor nincs is elég megfelelő adat a teszteléshez.
+
+## X. Igényelt üzleti folyamatok modellje
+
+A program célja, hogy webes felületen keresztül a fejlesztők és tesztelők nagy mennyiségű valósnak tűnő adatot generáltathassanak, amit nem kell külön ellenőrzések alá vetni, ezzel is gyorsítva a munka folyamatát.
