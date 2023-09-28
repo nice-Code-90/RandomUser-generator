@@ -10,7 +10,7 @@ A program célja webes felületen lehetővé tenni a fejlesztők és tesztelők 
 
 Jelenleg a fejlesztőknek és tesztelőknek szembe kell nézniük azzal a problémával, hogy sok esetben nincsen elég megfelelő adat projektjeik teszteléséhez. Adatvédelmi problémák merülhetnek fel és a valós személyek adatainak felhasználása **kockázatos** lehet. Ezen kívül tesztelés során gyakran van szükség több különféle adatmintára gyorsan. A manuálisan generált adatok pedig időigényesek, sokszor nem hozzák a megfelelő eredményt, ezzel is értékes időt és energiát elvéve a fejlesztő csapattól.
 
-### III. Vágyálomrendszer leírása
+## III. Vágyálomrendszer leírása
 
 A _Random User Generator_ program célja az egyszerű és hatékony módja annak, hogy felhasználók széles skáláját generálhassuk a tesztelés és fejlesztés során. A program képes lesz automatikusan előállítani a valódi felhasználókat utánozó adatokat, amelyek reálisak és változatosak, beleértve a neveket, e-mail címeket, telefonszámokat, lakcímeket, és egyéb fontos információkat. További cél, hogy a felhasználók könnyedén testre szabhassák a generált adatokat az adott projekt igényeinek megfelelően, például országok, nemek vagy korcsoportok alapján.
 
