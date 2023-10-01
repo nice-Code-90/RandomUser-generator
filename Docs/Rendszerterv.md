@@ -57,3 +57,9 @@ A projekt ütemtervét a következő mérföldkövek határozzák meg:
 7. **Alkalmazás kiadása** - 2024.10.06
 
 ## III. Üzleti Folyamatok Modellje
+
+### Üzleti Szereplők
+
+- **Fejlesztők**
+- **Tesztelők**
+- **Projektvezető**
