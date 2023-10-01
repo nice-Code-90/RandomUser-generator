@@ -93,3 +93,11 @@ A projekt ütemtervét a következő mérföldkövek határozzák meg:
 - Az alkalmazásnak felhasználóbarátnak kell lennie és egyszerűen kezelhetőnek kell lennie.
 - Az alkalmazásnak biztonságosnak kell lennie, és védenie kell az érzékeny felhasználói adatokat.
 - Az alkalmazásnak skálázhatónak kell lennie, hogy megbirkózzon a növekvő felhasználói igényekkel.
+
+## V. Rendszerarchitektúra
+
+### Alkalmazás Komponensei
+
+- **Frontend réteg:** A felhasználói felület megjelenítése és a felhasználói interakciók kezelése.
+- **Backend réteg:** Az alkalmazás üzleti logikájának és adatkezelésének kezelése.
+- **Adatbázis:** Felhasználói adatok tárolása és kezelése.
