@@ -55,3 +55,5 @@ A projekt ütemtervét a következő mérföldkövek határozzák meg:
 5. **Fejlesztési fázis kezdete** - 2023.09.29
 6. **Alkalmazás tesztelése** - 2024.10.04
 7. **Alkalmazás kiadása** - 2024.10.06
+
+## III. Üzleti Folyamatok Modellje
