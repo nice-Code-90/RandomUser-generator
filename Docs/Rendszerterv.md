@@ -76,3 +76,13 @@ A projekt ütemtervét a következő mérföldkövek határozzák meg:
    - Felhasználók megtekinthetik a generált adatokat a webes felületen.
 5. **Adatok Mentése**
    - Felhasználók menthetik a generált adatokat egyedi projekt mappákba a későbbi hozzáférés és használat céljából.
+
+## IV. Követelmények
+
+### Funkcionális Követelmények
+
+- Az alkalmazásnak képesnek kell lennie valósághű felhasználói adatok generálására.
+- Felhasználóknak lehetőségük kell lennie az adatok testreszabására több szempont alapján.
+- Az alkalmazásnak támogatnia kell az adatok exportálását különböző formátumokban (CSV, JSON, SQL stb.).
+- Az alkalmazásnak lehetővé kell tennie a generált adatok megjelenítését a webes felületen.
+- Felhasználóknak lehetőségük kell adni az adatok mentésére projekt mappákba.
