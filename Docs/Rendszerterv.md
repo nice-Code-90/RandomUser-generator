@@ -63,3 +63,16 @@ A projekt ütemtervét a következő mérföldkövek határozzák meg:
 - **Fejlesztők**
 - **Tesztelők**
 - **Projektvezető**
+
+### Üzleti Folyamatok
+
+1. **Adatgenerálás**
+   - Fejlesztők és tesztelők generálnak valósághű felhasználói adatokat az alkalmazás segítségével.
+2. **Adatok Testreszabása**
+   - Felhasználók testre szabhatják a generált adatokat, például nemzetiség, korcsoport vagy hobbik alapján.
+3. **Adatok Exportálása**
+   - Felhasználók exportálják az adatokat különböző formátumokban (CSV, JSON, SQL stb.).
+4. **Adatok Megjelenítése**
+   - Felhasználók megtekinthetik a generált adatokat a webes felületen.
+5. **Adatok Mentése**
+   - Felhasználók menthetik a generált adatokat egyedi projekt mappákba a későbbi hozzáférés és használat céljából.
