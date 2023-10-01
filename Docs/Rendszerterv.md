@@ -86,3 +86,10 @@ A projekt ütemtervét a következő mérföldkövek határozzák meg:
 - Az alkalmazásnak támogatnia kell az adatok exportálását különböző formátumokban (CSV, JSON, SQL stb.).
 - Az alkalmazásnak lehetővé kell tennie a generált adatok megjelenítését a webes felületen.
 - Felhasználóknak lehetőségük kell adni az adatok mentésére projekt mappákba.
+
+### Nem Funkcionális Követelmények
+
+- Az alkalmazásnak gyorsnak és megbízhatónak kell lennie.
+- Az alkalmazásnak felhasználóbarátnak kell lennie és egyszerűen kezelhetőnek kell lennie.
+- Az alkalmazásnak biztonságosnak kell lennie, és védenie kell az érzékeny felhasználói adatokat.
+- Az alkalmazásnak skálázhatónak kell lennie, hogy megbirkózzon a növekvő felhasználói igényekkel.
