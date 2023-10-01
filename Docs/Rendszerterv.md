@@ -101,3 +101,11 @@ A projekt ütemtervét a következő mérföldkövek határozzák meg:
 - **Frontend réteg:** A felhasználói felület megjelenítése és a felhasználói interakciók kezelése.
 - **Backend réteg:** Az alkalmazás üzleti logikájának és adatkezelésének kezelése.
 - **Adatbázis:** Felhasználói adatok tárolása és kezelése.
+
+### Technológiai Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express.js
+- **Adatbázis:** MongoDB
+- **Webes Szerver:** Nginx
+- **Biztonság:** SSL/TLS titkosítás, JWT autentikáció
