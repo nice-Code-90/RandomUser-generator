@@ -43,3 +43,15 @@ A rendszerterv célja, hogy létrehozza a "Random User Generator" webes alkalmaz
   - Az alkalmazás háttérlogikájának fejlesztése és adatkezelése.
   - Backend fejlesztők nevei:
     1. Mázik Milán
+
+### Ütemterv
+
+A projekt ütemtervét a következő mérföldkövek határozzák meg:
+
+1. **Projektterv elkészítése** - 2023.09.20
+2. **Funkcionális specifikáció készítése** - 2023.09.23
+3. **Követelményspecifikáció készítése** - 2023.09.23
+4. **Rendszerterv készítése** - 2023.09.29
+5. **Fejlesztési fázis kezdete** - 2023.09.29
+6. **Alkalmazás tesztelése** - 2024.10.04
+7. **Alkalmazás kiadása** - 2024.10.06
