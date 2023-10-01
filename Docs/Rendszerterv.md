@@ -29,3 +29,17 @@ A rendszerterv célja, hogy létrehozza a "Random User Generator" webes alkalmaz
     1. [Mázik Milán]
     2. [Pongó Petra]
     3. [Takács Zoltán]
+
+### Projektmunkások és Felelősségeik
+
+- **Frontend fejlesztők:**
+
+  - Az alkalmazás felhasználói felületének kialakítása és fejlesztése.
+  - Frontend fejlesztők nevei:
+    1. Pongó Petra
+    2. Mázik Mián
+
+- **Backend fejlesztők:**
+  - Az alkalmazás háttérlogikájának fejlesztése és adatkezelése.
+  - Backend fejlesztők nevei:
+    1. Mázik Milán
