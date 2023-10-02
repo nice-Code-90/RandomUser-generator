@@ -171,4 +171,12 @@ A weboldal folyamatos üzemeltetése és karbantartása létfontosságú annak �
 
 ### Kompatibilitás
 
-- **Böngésző Kompatibilitás Frissítése:** Az új böngészőverziók megjelenésekor ellenőrizzük és javítjuk az alkalmazás kompatibilitását azokkal. Biztosítjuk, hogy a weboldal zökkenőmentesen működjön a legújabb böngészőkben, például Chrome, Firefox, Safari, Edge.
+- **Böngésző Kompatibilitás Frissítése:** Az új böngészőverziók megjelenésekor ellenőrizzük és javítjuk az alkalmazás kompatibilitását azokkal. Biztosítjuk, hogy a weboldal zökkenőmentesen működjön a legújabb böngészőkben, például Chrome, Firefox, Safari, Edge.- **Böngésző Kompatibilitás Frissítése:** Az új böngészőverziók megjelenésekor ellenőrizzük és javítjuk az alkalmazás kompatibilitását azokkal. Biztosítjuk, hogy a weboldal zökkenőmentesen működjön a legújabb böngészőkben, például Chrome, Firefox, Safari, Edge.
+
+### Felhasználói Adatok Kezelése
+
+- **Felhasználói Adatok Módosítása és Törlése:** Az üzemeltetés során gondoskodunk arról, hogy a felhasználók bejelentkezési információit biztonságosan kezeljük. A felhasználóknak lehetőségük van adataik módosítására vagy törlésére a megfelelő kérelmek benyújtásával.
+
+Az üzemeltetés és karbantartás során a prioritást azonnal javítások és a felhasználói visszajelzések alapján határozzuk meg. Az alkalmazás folyamatosan frissítve lesz annak érdekében, hogy megfeleljen az aktuális igényeknek és a legmagasabb minőségi szabványoknak.
+
+Minden karbantartási tevékenység és fejlesztés dokumentálva lesz, és a felhasználók számára is elérhetővé teszünk információkat az alkalmazás változásairól és frissítéseiről.
