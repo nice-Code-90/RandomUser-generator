@@ -142,3 +142,15 @@ Az alpha teszt a fejlesztő csapat részvételével zajlik le, és annak célja 
 - **Böngésző Kompatibilitás Teszt:** Teszteljük az alkalmazás különböző böngészőkben történő megjelenését és működését, például Chrome, Firefox, Safari, Edge.
 - **Teljesítmény Teszt:** Az alkalmazás teljesítményét és válaszidejét ellenőrizzük különböző terhelési szinteken.
 - **Adatbiztonsági Teszt:** Ellenőrizzük az alkalmazás által kezelt adatok biztonságát és az esetleges sebezhetőségeket.
+
+### Béta Teszt
+
+A béta teszt az alkalmazás korlátozott nyilvános elérhetőségét jelenti, és valódi felhasználók vesznek részt. A béta teszt fő célja az alkalmazás teljesítményének és megbízhatóságának további ellenőrzése valós körülmények között. A béta teszt során a következőket fogjuk elvégezni:
+
+- **Felhasználói Visszajelzések Gyűjtése:** Az elsődleges cél az, hogy a valós felhasználók visszajelzéseket adjanak az alkalmazásról és az esetleges hibákról.
+- **Teljesítmény Figyelése:** Monitorozzuk az alkalmazás teljesítményét és stabilitását valós időben.
+- **Adatok Biztonságának Ellenőrzése:** Biztosítjuk, hogy a felhasználói adatok továbbra is biztonságban legyenek.
+
+A béta teszt eredményei alapján döntünk majd az alkalmazás végleges kiadásáról és a szükséges hibajavításokról. Az alkalmazás hivatalosan is elérhető lesz a nagyközönség számára.
+
+A tesztelési fázisok és tesztek kidolgozása során az összes tesztelési tevékenység dokumentálásra kerül, és a hibák azonnal jelentésre kerülnek és javításra kerülnek.
