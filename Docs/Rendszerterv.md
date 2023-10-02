@@ -112,7 +112,8 @@ A projekt ütemtervét a következő mérföldkövek határozzák meg:
 
 ## VI. Adatmodell
 
-Az adatmodell tartalmazza a felhasználói adatok struktúráját, beleértve a nevet, címet, emailt, telefonszámot stb.Az adatmodell tartalmazza a felhasználói adatok struktúráját, beleértve a nevet, címet, emailt, telefonszámot stb.
+Az adatmodell tartalmazza a felhasználói adatok struktúráját, beleértve a nevet, címet, emailt, telefonszámot stb.
+
 ## VII. Felhasználói Felület
 
 Az alkalmazás felhasználói felülete egyszerű és intuitív lesz. A felület tartalmazni fogja a következő fő funkciókat:
@@ -132,4 +133,12 @@ A tesztelés az alkalmazás fejlesztésének létfontosságú része, amely seg�
 
 2. **Integrációs Tesztek:** Miután a különálló modulok elkészültek, az integrációs tesztek célja azok együttes működésének ellenőrzése. Ellenőrizni fogjuk, hogy az egyes komponensek közötti kommunikáció és adatcsere zökkenőmentesen működik-e.
 
-3. **Rendszer Tesztek:** Ebben a fázisban az alkalmazás egészét teszteljük, és ellenőrizzük annak megfelelőségét a specifikációknak. A rendszer teljes funkcionalitását és teljesítményét ellenőrizzük.
+3. **Rendszer Tesztek:** Ebben a fázisban az alkalmazás egészét teszteljük, és ellenőrizzük annak megfelelőségét a specifikációknak. A rendszer teljes funkcionalitását és teljesítményét ellenőrizzük.3. **Rendszer Tesztek:** Ebben a fázisban az alkalmazás egészét teszteljük, és ellenőrizzük annak megfelelőségét a specifikációknak. A rendszer teljes funkcionalitását és teljesítményét ellenőrizzük.
+### Alpha Teszt
+
+Az alpha teszt a fejlesztő csapat részvételével zajlik le, és annak célja az alkalmazás funkcióinak alapos ellenőrzése. Az alábbiak szerint folyik majd:
+
+- **Funkcionális Teszt:** Ellenőrizzük az alkalmazás minden funkcióját, és győződjünk meg róla, hogy a tervezett működésnek megfelelően működik-e.
+- **Böngésző Kompatibilitás Teszt:** Teszteljük az alkalmazás különböző böngészőkben történő megjelenését és működését, például Chrome, Firefox, Safari, Edge.
+- **Teljesítmény Teszt:** Az alkalmazás teljesítményét és válaszidejét ellenőrizzük különböző terhelési szinteken.
+- **Adatbiztonsági Teszt:** Ellenőrizzük az alkalmazás által kezelt adatok biztonságát és az esetleges sebezhetőségeket.
