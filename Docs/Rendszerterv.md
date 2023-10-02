@@ -109,3 +109,7 @@ A projekt ütemtervét a következő mérföldkövek határozzák meg:
 - **Adatbázis:** MongoDB
 - **Webes Szerver:** Nginx
 - **Biztonság:** SSL/TLS titkosítás, JWT autentikáció
+
+## VI. Adatmodell
+
+Az adatmodell tartalmazza a felhasználói adatok struktúráját, beleértve a nevet, címet, emailt, telefonszámot stb.
