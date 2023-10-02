@@ -154,3 +154,7 @@ A béta teszt az alkalmazás korlátozott nyilvános elérhetőségét jelenti, 
 A béta teszt eredményei alapján döntünk majd az alkalmazás végleges kiadásáról és a szükséges hibajavításokról. Az alkalmazás hivatalosan is elérhető lesz a nagyközönség számára.
 
 A tesztelési fázisok és tesztek kidolgozása során az összes tesztelési tevékenység dokumentálásra kerül, és a hibák azonnal jelentésre kerülnek és javításra kerülnek.
+
+## IX. Karbantartási Terv
+
+A weboldal folyamatos üzemeltetése és karbantartása létfontosságú annak érdekében, hogy biztosítsuk a zavartalan működést és a felhasználók elégedettségét. A karbantartási terv a következő tevékenységeket foglalja magában:
