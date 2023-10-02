@@ -161,4 +161,10 @@ A weboldal folyamatos üzemeltetése és karbantartása létfontosságú annak �
 
 ### Hibajavítás
 
-- **Felhasználói Bejelentések Kezelése:** A felhasználók által bejelentett bugok és hibák azonnal ki lesznek javítva. Ez magában foglalja az alkalmazás bármely részének hibáinak azonosítását és kijavítását.
+- **Felhasználói Bejelentések Kezelése:** A felhasználók által bejelentett bugok és hibák azonnal ki lesznek javítva. Ez magában foglalja az alkalmazás bármely részének hibáinak azonosítását és kijavítását.- **Felhasználói Bejelentések Kezelése:** A felhasználók által bejelentett bugok és hibák azonnal ki lesznek javítva. Ez magában foglalja az alkalmazás bármely részének hibáinak azonosítását és kijavítását.
+
+### Funkció Bővítések
+
+- **Kérdőív Funkciók Bővítése:** Az igények és visszajelzések alapján továbbfejlesztjük a kérdőív funkcionalitását, hogy még jobban kiszolgáljuk a felhasználók igényeit. Új lehetőségek és opciók kerülhetnek bevezetésre.
+
+- **Kérdések Bővítése:** Szükség esetén új kérdéseket adunk hozzá a kérdőívhez, hogy lefedjük az aktuális témák és igények széles skáláját.
