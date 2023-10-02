@@ -125,4 +125,11 @@ Az alkalmazás felhasználói felülete egyszerű és intuitív lesz. A felület
 
 ## VIII. Teszt Terv
 
-A tesztelés az alkalmazás fejlesztésének létfontosságú része, amely segít azonosítani a potenciális hibákat és biztosítja a szoftver minőségét. A teszteket a fejlesztők hajtják végre, és a fejlesztés különböző szakaszaiban valósulnak meg.
+A tesztelés az alkalmazás fejlesztésének létfontosságú része, amely segít azonosítani a potenciális hibákat és biztosítja a szoftver minőségét. A teszteket a fejlesztők hajtják végre, és a fejlesztés különböző szakaszaiban valósulnak meg.A tesztelés az alkalmazás fejlesztésének létfontosságú része, amely segít azonosítani a potenciális hibákat és biztosítja a szoftver minőségét. A teszteket a fejlesztők hajtják végre, és a fejlesztés különböző szakaszaiban valósulnak meg.
+### Tesztelési Fázisok
+
+1. **Modul Tesztek:** A fejlesztők modul teszteket hajtanak végre minden egyes komponensre és funkcióra, amint az elkészül. Ezek a tesztek a kódban található apró hibák azonosítását és javítását célozzák meg.
+
+2. **Integrációs Tesztek:** Miután a különálló modulok elkészültek, az integrációs tesztek célja azok együttes működésének ellenőrzése. Ellenőrizni fogjuk, hogy az egyes komponensek közötti kommunikáció és adatcsere zökkenőmentesen működik-e.
+
+3. **Rendszer Tesztek:** Ebben a fázisban az alkalmazás egészét teszteljük, és ellenőrizzük annak megfelelőségét a specifikációknak. A rendszer teljes funkcionalitását és teljesítményét ellenőrizzük.
