@@ -157,4 +157,8 @@ A tesztelési fázisok és tesztek kidolgozása során az összes tesztelési te
 
 ## IX. Karbantartási Terv
 
-A weboldal folyamatos üzemeltetése és karbantartása létfontosságú annak érdekében, hogy biztosítsuk a zavartalan működést és a felhasználók elégedettségét. A karbantartási terv a következő tevékenységeket foglalja magában:
+A weboldal folyamatos üzemeltetése és karbantartása létfontosságú annak érdekében, hogy biztosítsuk a zavartalan működést és a felhasználók elégedettségét. A karbantartási terv a következő tevékenységeket foglalja magában:A weboldal folyamatos üzemeltetése és karbantartása létfontosságú annak érdekében, hogy biztosítsuk a zavartalan működést és a felhasználók elégedettségét. A karbantartási terv a következő tevékenységeket foglalja magában:
+
+### Hibajavítás
+
+- **Felhasználói Bejelentések Kezelése:** A felhasználók által bejelentett bugok és hibák azonnal ki lesznek javítva. Ez magában foglalja az alkalmazás bármely részének hibáinak azonosítását és kijavítását.
