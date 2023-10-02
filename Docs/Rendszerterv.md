@@ -167,4 +167,8 @@ A weboldal folyamatos üzemeltetése és karbantartása létfontosságú annak �
 
 - **Kérdőív Funkciók Bővítése:** Az igények és visszajelzések alapján továbbfejlesztjük a kérdőív funkcionalitását, hogy még jobban kiszolgáljuk a felhasználók igényeit. Új lehetőségek és opciók kerülhetnek bevezetésre.
 
-- **Kérdések Bővítése:** Szükség esetén új kérdéseket adunk hozzá a kérdőívhez, hogy lefedjük az aktuális témák és igények széles skáláját.
+- **Kérdések Bővítése:** Szükség esetén új kérdéseket adunk hozzá a kérdőívhez, hogy lefedjük az aktuális témák és igények széles skáláját.- **Kérdések Bővítése:** Szükség esetén új kérdéseket adunk hozzá a kérdőívhez, hogy lefedjük az aktuális témák és igények széles skáláját.
+
+### Kompatibilitás
+
+- **Böngésző Kompatibilitás Frissítése:** Az új böngészőverziók megjelenésekor ellenőrizzük és javítjuk az alkalmazás kompatibilitását azokkal. Biztosítjuk, hogy a weboldal zökkenőmentesen működjön a legújabb böngészőkben, például Chrome, Firefox, Safari, Edge.
