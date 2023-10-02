@@ -112,4 +112,13 @@ A projekt ütemtervét a következő mérföldkövek határozzák meg:
 
 ## VI. Adatmodell
 
-Az adatmodell tartalmazza a felhasználói adatok struktúráját, beleértve a nevet, címet, emailt, telefonszámot stb.
+Az adatmodell tartalmazza a felhasználói adatok struktúráját, beleértve a nevet, címet, emailt, telefonszámot stb.Az adatmodell tartalmazza a felhasználói adatok struktúráját, beleértve a nevet, címet, emailt, telefonszámot stb.
+## VII. Felhasználói Felület
+
+Az alkalmazás felhasználói felülete egyszerű és intuitív lesz. A felület tartalmazni fogja a következő fő funkciókat:
+
+- Adatgenerálás és testreszabás opciók.
+- Exportálási lehetőségek különböző formátumokban.
+- Az exportált adatok megtekintése.
+- Adatok mentése projekt mappákba.
+- Beállítások kezelése.
