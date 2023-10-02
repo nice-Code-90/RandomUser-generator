@@ -122,3 +122,7 @@ Az alkalmazás felhasználói felülete egyszerű és intuitív lesz. A felület
 - Az exportált adatok megtekintése.
 - Adatok mentése projekt mappákba.
 - Beállítások kezelése.
+
+## VIII. Teszt Terv
+
+A tesztelés az alkalmazás fejlesztésének létfontosságú része, amely segít azonosítani a potenciális hibákat és biztosítja a szoftver minőségét. A teszteket a fejlesztők hajtják végre, és a fejlesztés különböző szakaszaiban valósulnak meg.
