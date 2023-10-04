@@ -25,5 +25,5 @@ Sikeres tesztek
 Sikertelen tesztek
 
 | Sorszám        | Időpont       | Teszt neve                | Leírása                      | Leírása      | Állapot |
-|----------------|---------------|---------------------------|------------------------------|--------------|
+|----------------|---------------|---------------------------|------------------------------|--------------|---------|
 | 1 | 2023.10.04.  | CSV Exportálás | A CSV exportálás gombra kattintva elindul a letöltés  | Sikertelen | Javítva |
