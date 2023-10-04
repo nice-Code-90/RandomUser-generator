@@ -109,3 +109,74 @@ A projekt ütemtervét a következő mérföldkövek határozzák meg:
 - **Adatbázis:** MongoDB
 - **Webes Szerver:** Nginx
 - **Biztonság:** SSL/TLS titkosítás, JWT autentikáció
+
+## VI. Adatmodell
+
+Az adatmodell tartalmazza a felhasználói adatok struktúráját, beleértve a nevet, címet, emailt, telefonszámot stb.
+
+## VII. Felhasználói Felület
+
+Az alkalmazás felhasználói felülete egyszerű és intuitív lesz. A felület tartalmazni fogja a következő fő funkciókat:
+
+- Adatgenerálás és testreszabás opciók.
+- Exportálási lehetőségek különböző formátumokban.
+- Az exportált adatok megtekintése.
+- Adatok mentése projekt mappákba.
+- Beállítások kezelése.
+
+## VIII. Teszt Terv
+
+A tesztelés az alkalmazás fejlesztésének létfontosságú része, amely segít azonosítani a potenciális hibákat és biztosítja a szoftver minőségét. A teszteket a fejlesztők hajtják végre, és a fejlesztés különböző szakaszaiban valósulnak meg.A tesztelés az alkalmazás fejlesztésének létfontosságú része, amely segít azonosítani a potenciális hibákat és biztosítja a szoftver minőségét. A teszteket a fejlesztők hajtják végre, és a fejlesztés különböző szakaszaiban valósulnak meg.
+### Tesztelési Fázisok
+
+1. **Modul Tesztek:** A fejlesztők modul teszteket hajtanak végre minden egyes komponensre és funkcióra, amint az elkészül. Ezek a tesztek a kódban található apró hibák azonosítását és javítását célozzák meg.
+
+2. **Integrációs Tesztek:** Miután a különálló modulok elkészültek, az integrációs tesztek célja azok együttes működésének ellenőrzése. Ellenőrizni fogjuk, hogy az egyes komponensek közötti kommunikáció és adatcsere zökkenőmentesen működik-e.
+
+3. **Rendszer Tesztek:** Ebben a fázisban az alkalmazás egészét teszteljük, és ellenőrizzük annak megfelelőségét a specifikációknak. A rendszer teljes funkcionalitását és teljesítményét ellenőrizzük.3. **Rendszer Tesztek:** Ebben a fázisban az alkalmazás egészét teszteljük, és ellenőrizzük annak megfelelőségét a specifikációknak. A rendszer teljes funkcionalitását és teljesítményét ellenőrizzük.
+### Alpha Teszt
+
+Az alpha teszt a fejlesztő csapat részvételével zajlik le, és annak célja az alkalmazás funkcióinak alapos ellenőrzése. Az alábbiak szerint folyik majd:
+
+- **Funkcionális Teszt:** Ellenőrizzük az alkalmazás minden funkcióját, és győződjünk meg róla, hogy a tervezett működésnek megfelelően működik-e.
+- **Böngésző Kompatibilitás Teszt:** Teszteljük az alkalmazás különböző böngészőkben történő megjelenését és működését, például Chrome, Firefox, Safari, Edge.
+- **Teljesítmény Teszt:** Az alkalmazás teljesítményét és válaszidejét ellenőrizzük különböző terhelési szinteken.
+- **Adatbiztonsági Teszt:** Ellenőrizzük az alkalmazás által kezelt adatok biztonságát és az esetleges sebezhetőségeket.
+
+### Béta Teszt
+
+A béta teszt az alkalmazás korlátozott nyilvános elérhetőségét jelenti, és valódi felhasználók vesznek részt. A béta teszt fő célja az alkalmazás teljesítményének és megbízhatóságának további ellenőrzése valós körülmények között. A béta teszt során a következőket fogjuk elvégezni:
+
+- **Felhasználói Visszajelzések Gyűjtése:** Az elsődleges cél az, hogy a valós felhasználók visszajelzéseket adjanak az alkalmazásról és az esetleges hibákról.
+- **Teljesítmény Figyelése:** Monitorozzuk az alkalmazás teljesítményét és stabilitását valós időben.
+- **Adatok Biztonságának Ellenőrzése:** Biztosítjuk, hogy a felhasználói adatok továbbra is biztonságban legyenek.
+
+A béta teszt eredményei alapján döntünk majd az alkalmazás végleges kiadásáról és a szükséges hibajavításokról. Az alkalmazás hivatalosan is elérhető lesz a nagyközönség számára.
+
+A tesztelési fázisok és tesztek kidolgozása során az összes tesztelési tevékenység dokumentálásra kerül, és a hibák azonnal jelentésre kerülnek és javításra kerülnek.
+
+## IX. Karbantartási Terv
+
+A weboldal folyamatos üzemeltetése és karbantartása létfontosságú annak érdekében, hogy biztosítsuk a zavartalan működést és a felhasználók elégedettségét. A karbantartási terv a következő tevékenységeket foglalja magában:A weboldal folyamatos üzemeltetése és karbantartása létfontosságú annak érdekében, hogy biztosítsuk a zavartalan működést és a felhasználók elégedettségét. A karbantartási terv a következő tevékenységeket foglalja magában:
+
+### Hibajavítás
+
+- **Felhasználói Bejelentések Kezelése:** A felhasználók által bejelentett bugok és hibák azonnal ki lesznek javítva. Ez magában foglalja az alkalmazás bármely részének hibáinak azonosítását és kijavítását.- **Felhasználói Bejelentések Kezelése:** A felhasználók által bejelentett bugok és hibák azonnal ki lesznek javítva. Ez magában foglalja az alkalmazás bármely részének hibáinak azonosítását és kijavítását.
+
+### Funkció Bővítések
+
+- **Kérdőív Funkciók Bővítése:** Az igények és visszajelzések alapján továbbfejlesztjük a kérdőív funkcionalitását, hogy még jobban kiszolgáljuk a felhasználók igényeit. Új lehetőségek és opciók kerülhetnek bevezetésre.
+
+- **Kérdések Bővítése:** Szükség esetén új kérdéseket adunk hozzá a kérdőívhez, hogy lefedjük az aktuális témák és igények széles skáláját.- **Kérdések Bővítése:** Szükség esetén új kérdéseket adunk hozzá a kérdőívhez, hogy lefedjük az aktuális témák és igények széles skáláját.
+
+### Kompatibilitás
+
+- **Böngésző Kompatibilitás Frissítése:** Az új böngészőverziók megjelenésekor ellenőrizzük és javítjuk az alkalmazás kompatibilitását azokkal. Biztosítjuk, hogy a weboldal zökkenőmentesen működjön a legújabb böngészőkben, például Chrome, Firefox, Safari, Edge.- **Böngésző Kompatibilitás Frissítése:** Az új böngészőverziók megjelenésekor ellenőrizzük és javítjuk az alkalmazás kompatibilitását azokkal. Biztosítjuk, hogy a weboldal zökkenőmentesen működjön a legújabb böngészőkben, például Chrome, Firefox, Safari, Edge.
+
+### Felhasználói Adatok Kezelése
+
+- **Felhasználói Adatok Módosítása és Törlése:** Az üzemeltetés során gondoskodunk arról, hogy a felhasználók bejelentkezési információit biztonságosan kezeljük. A felhasználóknak lehetőségük van adataik módosítására vagy törlésére a megfelelő kérelmek benyújtásával.
+
+Az üzemeltetés és karbantartás során a prioritást azonnal javítások és a felhasználói visszajelzések alapján határozzuk meg. Az alkalmazás folyamatosan frissítve lesz annak érdekében, hogy megfeleljen az aktuális igényeknek és a legmagasabb minőségi szabványoknak.
+
+Minden karbantartási tevékenység és fejlesztés dokumentálva lesz, és a felhasználók számára is elérhetővé teszünk információkat az alkalmazás változásairól és frissítéseiről.
