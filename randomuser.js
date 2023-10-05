@@ -23,3 +23,14 @@ document.querySelector("form").addEventListener("submit", (event) => {
             document.querySelector(".js-users").innerHTML = markup;
         });
 });
+
+// Referenciák létrrehozása
+const exportButton = document.getElementById("exportButton");
+const exportDropdown = document.querySelector(".export-dropdown");
+const exportCSV = document.getElementById("exportCSV");
+const exportJSON = document.getElementById("exportJSON");
+const exportSQL = document.getElementById("exportSQL");
+
+exportButton.addEventListener("click", () => {
+    exportDropdown.style.display = exportDropdown.style.display === "block" ? "none" : "block";
+});
