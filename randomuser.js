@@ -103,3 +103,35 @@ exportJSON.addEventListener("click", () => {
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
 });
+
+//SQL export
+exportSQL.addEventListener("click", () => {
+    const userList = document.querySelectorAll(".user");
+
+    if (userList.length === 0) {
+        alert("Nem generáltattál semmilyen adatot!");
+        return;
+    }
+
+    let sqlData = "";
+
+    userList.forEach((user) => {
+        const name = user.querySelector("div:nth-child(2)").textContent.trim();
+        const email = user.querySelector("div:nth-child(3)").textContent.trim();
+        const location = user.querySelector("div:nth-child(4)").textContent.trim();
+
+        sqlData += `INSERT INTO users (name, email, location) VALUES ('${name}', '${email}', '${location}');\n`;
+    });
+
+    const blob = new Blob([sqlData], { type: "text/sql;charset=utf-8;" });
+    const url = URL.createObjectURL(blob);
+
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "user-data.sql";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+});
+
