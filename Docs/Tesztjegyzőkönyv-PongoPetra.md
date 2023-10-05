@@ -14,7 +14,7 @@ A teszteket a csapat minden tagja végezte, és ellenőrizte azok pontosságát.
 
 ## Pongó Petra
 
-Sikeres tesztek
+Sikeres tesztek (OperaGX böngészőben)
 
 | Sorszám | Időpont     | Teszt neve               | Leírása                                                             | Leírása |
 | ------- | ----------- | ------------------------ | ------------------------------------------------------------------- | ------- |
@@ -24,7 +24,7 @@ Sikeres tesztek
 | 4       | 2023.10.05. | Reszponzív nézet | Reszpozív nézet ellenőrzése | Sikeres |
 
 
-Sikertelen tesztek
+Sikertelen tesztek (OperaGX böngészőben)
 
 | Sorszám | Időpont     | Teszt neve     | Leírása                                              | Leírása    | Állapot |
 | ------- | ----------- | -------------- | ---------------------------------------------------- | ---------- | ------- |
