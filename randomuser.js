@@ -70,3 +70,36 @@ exportCSV.addEventListener("click", () => {
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
 });
+
+// JSON export
+exportJSON.addEventListener("click", () => {
+    const userList = document.querySelectorAll(".user");
+
+    if (userList.length === 0) {
+        alert("Nem generáltattál semmilyen adatot!");
+        return;
+    }
+
+    const userData = [];
+
+    userList.forEach((user) => {
+        const name = user.querySelector("div:nth-child(2)").textContent.trim();
+        const email = user.querySelector("div:nth-child(3)").textContent.trim();
+        const location = user.querySelector("div:nth-child(4)").textContent.trim();
+
+        userData.push({ name, email, location });
+    });
+
+    const jsonData = JSON.stringify(userData, null, 2);
+
+    const blob = new Blob([jsonData], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "user-data.json";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+});
