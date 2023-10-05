@@ -34,3 +34,22 @@ const exportSQL = document.getElementById("exportSQL");
 exportButton.addEventListener("click", () => {
     exportDropdown.style.display = exportDropdown.style.display === "block" ? "none" : "block";
 });
+
+//CSV export
+exportCSV.addEventListener("click", () => {
+    const userList = document.querySelectorAll(".user");
+
+    if (userList.length === 0) {
+        alert("Nem generáltattál semmilyen adatot!");
+        return;
+    }
+
+    const csvData = [["Name", "Email", "Location"]];
+
+    userList.forEach((user) => {
+        const name = user.querySelector("div:nth-child(2)").textContent.trim();
+        const email = user.querySelector("div:nth-child(3)").textContent.trim();
+        const location = user.querySelector("div:nth-child(4)").textContent.trim();
+
+        csvData.push([name, email, location]);
+    });
