@@ -22,6 +22,7 @@ A rendszerterv célja, hogy létrehozza a "Random User Generator" webes alkalmaz
     1. Pongó Petra - Frontend fejlesztő
     2. Mázik Milán - Frontend fejlesztő
     3. Takács Zoltán - Backend fejlesztő
+    4. Szabó Patrik - Backend fejlesztő
 
 - **Tesztelők:**
   - Az alkalmazás teszteléséért és hibák felderítéséért felelős személyek.
@@ -29,6 +30,7 @@ A rendszerterv célja, hogy létrehozza a "Random User Generator" webes alkalmaz
     1. [Mázik Milán]
     2. [Pongó Petra]
     3. [Takács Zoltán]
+    4. [Szabó Patrik]
 
 ### Projektmunkások és Felelősségeik
 
@@ -37,12 +39,13 @@ A rendszerterv célja, hogy létrehozza a "Random User Generator" webes alkalmaz
   - Az alkalmazás felhasználói felületének kialakítása és fejlesztése.
   - Frontend fejlesztők nevei:
     1. Pongó Petra
-    2. Mázik Mián
+    2. Mázik Milán
 
 - **Backend fejlesztők:**
   - Az alkalmazás háttérlogikájának fejlesztése és adatkezelése.
   - Backend fejlesztők nevei:
-    1. Mázik Milán
+    1. Takács Zoltán
+    2. Szabó Patrik
 
 ### Ütemterv
 
@@ -54,7 +57,7 @@ A projekt ütemtervét a következő mérföldkövek határozzák meg:
 4. **Rendszerterv készítése** - 2023.09.29
 5. **Fejlesztési fázis kezdete** - 2023.09.29
 6. **Alkalmazás tesztelése** - 2024.10.04
-7. **Alkalmazás kiadása** - 2024.10.06
+7. **Alkalmazás kiadása** - 2024.10.05
 
 ## III. Üzleti Folyamatok Modellje
 
