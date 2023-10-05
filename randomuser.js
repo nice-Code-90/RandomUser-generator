@@ -60,3 +60,13 @@ exportCSV.addEventListener("click", () => {
      // Blob készítése a CSV adattal
     const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
     const url = URL.createObjectURL(blob);
+
+    // letöltési link készítése és letöltés indítása
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "user-data.csv";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+});
