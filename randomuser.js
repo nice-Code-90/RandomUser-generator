@@ -56,3 +56,7 @@ exportCSV.addEventListener("click", () => {
 
      // CSV formátummá alakítása az adatoknak
      const csvContent = csvData.map((row) => row.join(",")).join("\n");
+
+     // Blob készítése a CSV adattal
+    const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+    const url = URL.createObjectURL(blob);
