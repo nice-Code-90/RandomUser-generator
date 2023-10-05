@@ -53,3 +53,6 @@ exportCSV.addEventListener("click", () => {
 
         csvData.push([name, email, location]);
     });
+
+     // CSV formátummá alakítása az adatoknak
+     const csvContent = csvData.map((row) => row.join(",")).join("\n");
