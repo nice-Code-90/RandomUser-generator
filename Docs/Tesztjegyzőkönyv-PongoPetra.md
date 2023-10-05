@@ -22,6 +22,11 @@ Sikeres tesztek (OperaGX böngészőben)
 | 2       | 2023.10.04. | Exportálás gomb működése | Az "Exportálás" gomb megnyomására felugranak-e a választható opciók | Sikeres |
 | 3       | 2023.10.04. | HTML & CSS tesztelése    | A HTML és CSS kód tesztelése OperaGX böngészőben                    | Sikeres |
 | 4       | 2023.10.05. | Reszponzív nézet | Reszpozív nézet ellenőrzése | Sikeres |
+| 5       | 2023.10.05. | JSON exportálás | JSON exportálás gombra kattintva elindul a letöltés | Sikeres |
+| 6       | 2023.10.05. | SQL exportálás | SQL exportálás gombra kattintva elindul a letöltés | Sikeres |
+| 7       | 2023.10.05. | Nemzetiség kiválasztása | Helyes nemzetiség kiválasztásának ellenőrzése | Sikeres |
+| 8       | 2023.10.05. | "Home" button | Home button működésének ellenőrzése | Sikeres |
+| 9       | 2023.10.05. | "About the Poject" button | About the Project sikeresen átirányítja-e a látogatót a github oldalra | Sikeres |
 
 
 Sikertelen tesztek (OperaGX böngészőben)
