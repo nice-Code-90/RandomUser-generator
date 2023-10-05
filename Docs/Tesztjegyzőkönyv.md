@@ -32,6 +32,7 @@ Sikertelen tesztek
 
 Sikertelen tesztek
 
-| Sorszám | Időpont     | Teszt neve         | Leírása           | Leírása    | Állapot |
-| ------- | ----------- | ------------------ | ----------------- | ---------- | ------- |
-| 1       | 2023.10.04. | HTML felület teszt | Funkciók működése | Sikertelen | Javítva |
+| Sorszám | Időpont     | Teszt neve            | Leírása                                 | Leírása    | Állapot |
+| ------- | ----------- | --------------------- | --------------------------------------- | ---------- | ------- |
+| 1       | 2023.10.04. | HTML felület teszt    | Funkciók működése                       | Sikertelen | Javítva |
+| 3       | 2023.10.04. | HTML & CSS tesztelése | A HTML és CSS kód tesztelése Chrome-ban | Sikeres    |
