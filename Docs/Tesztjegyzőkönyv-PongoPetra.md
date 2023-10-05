@@ -21,6 +21,8 @@ Sikeres tesztek
 | 1       | 2023.10.04. | Generálás gomb működése  | A "Generálás" gomb megnyomására legenerálódik-e az adat             | Sikeres |
 | 2       | 2023.10.04. | Exportálás gomb működése | Az "Exportálás" gomb megnyomására felugranak-e a választható opciók | Sikeres |
 | 3       | 2023.10.04. | HTML & CSS tesztelése    | A HTML és CSS kód tesztelése OperaGX böngészőben                    | Sikeres |
+| 4       | 2023.10.05. | Reszponzív nézet | Reszpozív nézet ellenőrzése | Sikeres |
+
 
 Sikertelen tesztek
 
