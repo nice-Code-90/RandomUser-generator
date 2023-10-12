@@ -27,3 +27,10 @@ Sikeres tesztek (Microsoft Edge böngészőben)
 | 7       | 2023.10.05. | Nemzetiség kiválasztása | Helyes nemzetiség kiválasztásának ellenőrzése | Sikeres |
 | 8       | 2023.10.05. | "Home" button | Home button működésének ellenőrzése | Sikeres |
 | 9       | 2023.10.05. | "About the Poject" button | About the Project sikeresen átirányítja-e a látogatót a github oldalra | Sikeres |
+
+Sikertelen tesztek (Microsoft Edge böngészőben)
+
+| Sorszám | Időpont     | Teszt neve     | Leírása                                              | Leírása    | Állapot |
+| ------- | ----------- | -------------- | ---------------------------------------------------- | ---------- | ------- |
+| 1       | 2023.10.04. | CSV Exportálás | A CSV exportálás gombra kattintva elindul a letöltés | Sikertelen | Javítva |
+
