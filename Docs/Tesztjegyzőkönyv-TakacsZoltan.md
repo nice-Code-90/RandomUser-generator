@@ -7,3 +7,7 @@ Csapatunk feladata egy Online Random User Generator létrehozása. A programunk 
 ## II. Tesztelési terv célja
 
 A tesztelés fő célja, a kódolás során esetlegesen keletkezett hibák felderítése és kijavítása.
+
+## III. Tesztek
+
+A teszteket a csapat minden tagja végezte, és ellenőrizte azok pontosságát.
