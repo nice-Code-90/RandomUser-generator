@@ -24,6 +24,9 @@ document.querySelector("form").addEventListener("submit", (event) => {
         });
 });
 
+
+
+
 // Referenciák létrrehozása
 const exportButton = document.getElementById("exportButton");
 const exportDropdown = document.querySelector(".export-dropdown");
